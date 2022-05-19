@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+#safhasdkhfkjsdafksdahfjkaskfh
+=======
+#sfdsafisadfiu
+>>>>>>> 237c6f3cec5c7d186f8de7a5536dba458ea88fce
 FROM tomcat:8.0.41-jre8
 COPY tomcat-users.xml /usr/local/tomcat/conf/
 COPY target/trucks.war /usr/local/tomcat/webapps/
